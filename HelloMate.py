@@ -1,3 +1,3 @@
 a = 'Hello'
 b = 'Mate'
-print a + b
+print a + " " + b
